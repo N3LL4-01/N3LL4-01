@@ -1,16 +1,19 @@
+<!-- ASCII Welcome Art -->
+<p align="center">
+  <pre>
+   _     _      _     _      _     _      _     _      _     _      _     _      _     _    
+  (c).-.(c)    (c).-.(c)    (c).-.(c)    (c).-.(c)    (c).-.(c)    (c).-.(c)    (c).-.(c)  
+   / ._. \      / ._. \      / ._. \      / ._. \      / ._. \      / ._. \      / ._. \   
+ __\( Y )/__  __\( Y )/__  __\( Y )/__  __\( Y )/__  __\( Y )/__  __\( Y )/__  __\( Y )/__ 
+(_.-/'-'\-._)(_.-/'-'\-._)(_.-/'-'\-._)(_.-/'-'\-._)(_.-/'-'\-._)(_.-/'-'\-._)(_.-/'-'\-._)
+   || W ||      || E ||      || L ||      || C ||      || O ||      || M ||      || E ||   
+ _.' `-' '._  _.' `-' '._  _.' `-' '._  _.' `-' '._  _.' `-' '._  _.' `-' '._  _.' `-' '._ 
+(.-./`-'\.-.)(.-./`-'\.-.)(.-./`-'\.-.)(.-./`-'\.-.)(.-./`-'\.-.)(.-./`-'\.-.)(.-./`-'\.-.)
+ `-'     `-'  `-'     `-'  `-'     `-'  `-'     `-'  `-'     `-'  `-'     `-'  `-'     `-' 
+  </pre>
+</p>
 
-                                                           ─▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
-                                                         ───█▒▒░░░░░░░░░▒▒█───
-                                                         ────█░░█░░░░░█░░█────
-                                                         ─▄▄──█░░░▀█▀░░░█──▄▄─
-                                                         █░░█─▀▄░░░░░░░▄▀─█░░█
-                                                         █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-                                                         █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
-                                                         █░░║║║╠─║─║─║║║║║╠─░░█
-                                                         █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-                                                         █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-
-
+<!-- Welcome Text -->
 <p align="center">
   <strong>Welcome to my GitHub profile!</strong><br>
   I'm a dedicated full-time Penetration Tester specializing in Red Team operations with a focus on web security, malware forensics, OSINT, and CSIRT activities. Programming small projects is a passion of mine, and I enjoy creating tools and scripts that make cybersecurity tasks more efficient and effective.
@@ -24,3 +27,8 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
   </a>
 </p>
+
+<!-- Additional Info -->
+<p align="center">
+  <strong>More about me:</strong><br>
+Visit my linktree: https://linktr.ee/Nella_allami </p>
