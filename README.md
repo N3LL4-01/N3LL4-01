@@ -1,4 +1,4 @@
-<!-- ASCII Welcome Art -->
+<p align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" /></p>
 <p align="center">
   <pre>
 ──────▄▀▄─────▄▀▄──────────▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
@@ -14,7 +14,6 @@
   </pre>
 </p>
 
-<!-- Welcome Text -->
 <p align="center">
   <strong>Welcome to my GitHub profile!</strong><br>
   I'm a dedicated full-time Penetration Tester specializing in Red Team operations with a focus on web security, malware forensics, OSINT, and CSIRT activities. Programming small projects is a passion of mine, and I enjoy creating tools and scripts that make cybersecurity tasks more efficient and effective.
@@ -31,7 +30,7 @@
   </a>
 </p>
 
-<!-- Additional Info -->
+<p align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" /></p>
 <p align="center">
   <strong>More about me:</strong><br>
 Visit my linktree: https://linktr.ee/Nella_allami </p>
