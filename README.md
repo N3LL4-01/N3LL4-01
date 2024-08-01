@@ -22,13 +22,15 @@
   Feel free to reach out to me for collaboration or any queries you might have. I'm always open to discussing new projects and opportunities. 
   If you want a pentest, contact me via mail, I do not publish my workplace
   <br><br>
+<p>
   <a href="https://twitter.com/n3ll41" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%23A020F0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:n3ll4@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%2300FFFF.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 <p align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" /></p>
 <p align="center">
