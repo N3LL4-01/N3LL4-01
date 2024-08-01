@@ -22,7 +22,8 @@
   Feel free to reach out to me for collaboration or any queries you might have. I'm always open to discussing new projects and opportunities. 
   If you want a pentest, contact me via mail, I do not publish my workplace
   <br><br>
-<p>
+</p>
+<p align="center">
   <a href="https://twitter.com/n3ll41" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23A020F0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
