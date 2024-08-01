@@ -1,17 +1,13 @@
+
+![4ksgiuqaqj6a1](https://github.com/user-attachments/assets/8969299a-a9da-4159-b22d-75ff828596c7)
+
+
+
+
 <p align="center" href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" /></p>
 <p align="center">
-  <pre>
-──────▄▀▄─────▄▀▄──────────▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
-─────▄█░░▀▀▀▀▀░░█▄─────────█▒▒░░░░░░░░░▒▒█───
-─▄▄──█░░░░░░░░░░░█──▄▄──────█░░█░░░░░█░░█────
-█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█ ─▄▄──█░░░▀█▀░░░█──▄▄─
-██╗  ██╗███████╗██╗     ██╗       ██████╗ 
-██║  ██║██╔════╝██║     ██║      ██╔═══██╗
-███████║█████╗  ██║     ██║      ██║   ██║
-██╔══██║██╔══╝  ██║     ██║      ██║   ██║
-██║  ██║███████╗███████╗███████╗ ╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝  ╚═════╝ 
-  </pre>
+
+
 </p>
 
 <p align="center">
